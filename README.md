@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TKQ1.220829.002 V14.0.7.0.TKKMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: haydn
+- flavor: missi_phone_global-user
+- release: 13
+- id: TKQ1.220829.002
+- incremental: V14.0.7.0.TKKMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/haydn/haydn:13/RKQ1.211001.001/V14.0.7.0.TKKMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-13-TKQ1.220829.002-V14.0.7.0.TKKMIXM-release-keys
+- repo: xiaomi_haydn_dump
